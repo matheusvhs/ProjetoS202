@@ -19,6 +19,7 @@ Este projeto é um sistema de delivery simples com **interface via terminal (CLI
 ### Pré-requisitos
 
 - Docker e Docker Compose instalados
+- Python
 
 ### Inicie os serviços com Docker Compose
 
